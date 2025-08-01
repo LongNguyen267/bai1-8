@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "API_dki_tai_khoan.Controllers.AccountsController",
+    "Method": "GetAccount",
+    "RelativePath": "api/accounts/{accountNumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "accountNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_dki_tai_khoan.Controllers.AccountsController",
+    "Method": "Register",
+    "RelativePath": "api/accounts/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "API_dki_tai_khoan.Models.RegisterAccountRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
