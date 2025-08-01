@@ -8,7 +8,7 @@ namespace API_dki_tai_khoan.Models
         }
 
         public DbSet<TaiKhoan> TaiKhoan { get; set; }
-        
+        public DbSet<GiaoDich> GiaoDich { get; set; }
         public DbSet<SoTietKiem> SoTietKiem { get; set; }
         public DbSet<LaiSuatKyHan> LaiSuatKyHan { get; set; }
     }

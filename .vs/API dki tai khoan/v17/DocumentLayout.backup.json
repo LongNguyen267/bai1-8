@@ -3,44 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\API dki tai khoan\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1444FC90-2DAC-4B3F-85F4-D8AF38459FA4}|API dki tai khoan\\API dki tai khoan.csproj|c:\\users\\admin\\source\\repos\\api dki tai khoan\\api dki tai khoan\\models\\laisuatkyhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1444FC90-2DAC-4B3F-85F4-D8AF38459FA4}|API dki tai khoan\\API dki tai khoan.csproj|solutionrelative:api dki tai khoan\\models\\laisuatkyhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1444FC90-2DAC-4B3F-85F4-D8AF38459FA4}|API dki tai khoan\\API dki tai khoan.csproj|c:\\users\\admin\\source\\repos\\api dki tai khoan\\api dki tai khoan\\controllers\\transferscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1444FC90-2DAC-4B3F-85F4-D8AF38459FA4}|API dki tai khoan\\API dki tai khoan.csproj|solutionrelative:api dki tai khoan\\controllers\\transferscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1444FC90-2DAC-4B3F-85F4-D8AF38459FA4}|API dki tai khoan\\API dki tai khoan.csproj|c:\\users\\admin\\source\\repos\\api dki tai khoan\\api dki tai khoan\\models\\sotietkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1444FC90-2DAC-4B3F-85F4-D8AF38459FA4}|API dki tai khoan\\API dki tai khoan.csproj|solutionrelative:api dki tai khoan\\models\\sotietkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1444FC90-2DAC-4B3F-85F4-D8AF38459FA4}|API dki tai khoan\\API dki tai khoan.csproj|c:\\users\\admin\\source\\repos\\api dki tai khoan\\api dki tai khoan\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1444FC90-2DAC-4B3F-85F4-D8AF38459FA4}|API dki tai khoan\\API dki tai khoan.csproj|solutionrelative:api dki tai khoan\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1444FC90-2DAC-4B3F-85F4-D8AF38459FA4}|API dki tai khoan\\API dki tai khoan.csproj|c:\\users\\admin\\source\\repos\\api dki tai khoan\\api dki tai khoan\\models\\giaodich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1444FC90-2DAC-4B3F-85F4-D8AF38459FA4}|API dki tai khoan\\API dki tai khoan.csproj|solutionrelative:api dki tai khoan\\models\\giaodich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1444FC90-2DAC-4B3F-85F4-D8AF38459FA4}|API dki tai khoan\\API dki tai khoan.csproj|c:\\users\\admin\\source\\repos\\api dki tai khoan\\api dki tai khoan\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1444FC90-2DAC-4B3F-85F4-D8AF38459FA4}|API dki tai khoan\\API dki tai khoan.csproj|solutionrelative:api dki tai khoan\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1444FC90-2DAC-4B3F-85F4-D8AF38459FA4}|API dki tai khoan\\API dki tai khoan.csproj|c:\\users\\admin\\source\\repos\\api dki tai khoan\\api dki tai khoan\\models\\opensavingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1444FC90-2DAC-4B3F-85F4-D8AF38459FA4}|API dki tai khoan\\API dki tai khoan.csproj|solutionrelative:api dki tai khoan\\models\\opensavingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1444FC90-2DAC-4B3F-85F4-D8AF38459FA4}|API dki tai khoan\\API dki tai khoan.csproj|c:\\users\\admin\\source\\repos\\api dki tai khoan\\api dki tai khoan\\models\\externaltransferrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1444FC90-2DAC-4B3F-85F4-D8AF38459FA4}|API dki tai khoan\\API dki tai khoan.csproj|solutionrelative:api dki tai khoan\\models\\externaltransferrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1444FC90-2DAC-4B3F-85F4-D8AF38459FA4}|API dki tai khoan\\API dki tai khoan.csproj|c:\\users\\admin\\source\\repos\\api dki tai khoan\\api dki tai khoan\\controllers\\savingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1444FC90-2DAC-4B3F-85F4-D8AF38459FA4}|API dki tai khoan\\API dki tai khoan.csproj|solutionrelative:api dki tai khoan\\controllers\\savingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1444FC90-2DAC-4B3F-85F4-D8AF38459FA4}|API dki tai khoan\\API dki tai khoan.csproj|c:\\users\\admin\\source\\repos\\api dki tai khoan\\api dki tai khoan\\models\\internaltransferrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1444FC90-2DAC-4B3F-85F4-D8AF38459FA4}|API dki tai khoan\\API dki tai khoan.csproj|solutionrelative:api dki tai khoan\\models\\internaltransferrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1444FC90-2DAC-4B3F-85F4-D8AF38459FA4}|API dki tai khoan\\API dki tai khoan.csproj|c:\\users\\admin\\source\\repos\\api dki tai khoan\\api dki tai khoan\\models\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1444FC90-2DAC-4B3F-85F4-D8AF38459FA4}|API dki tai khoan\\API dki tai khoan.csproj|solutionrelative:api dki tai khoan\\models\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1444FC90-2DAC-4B3F-85F4-D8AF38459FA4}|API dki tai khoan\\API dki tai khoan.csproj|c:\\users\\admin\\source\\repos\\api dki tai khoan\\api dki tai khoan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1444FC90-2DAC-4B3F-85F4-D8AF38459FA4}|API dki tai khoan\\API dki tai khoan.csproj|solutionrelative:api dki tai khoan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1444FC90-2DAC-4B3F-85F4-D8AF38459FA4}|API dki tai khoan\\API dki tai khoan.csproj|c:\\users\\admin\\source\\repos\\api dki tai khoan\\api dki tai khoan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1444FC90-2DAC-4B3F-85F4-D8AF38459FA4}|API dki tai khoan\\API dki tai khoan.csproj|solutionrelative:api dki tai khoan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1444FC90-2DAC-4B3F-85F4-D8AF38459FA4}|API dki tai khoan\\API dki tai khoan.csproj|c:\\users\\admin\\source\\repos\\api dki tai khoan\\api dki tai khoan\\models\\registeraccountrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1444FC90-2DAC-4B3F-85F4-D8AF38459FA4}|API dki tai khoan\\API dki tai khoan.csproj|solutionrelative:api dki tai khoan\\models\\registeraccountrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1444FC90-2DAC-4B3F-85F4-D8AF38459FA4}|API dki tai khoan\\API dki tai khoan.csproj|c:\\users\\admin\\source\\repos\\api dki tai khoan\\api dki tai khoan\\models\\laisuatkyhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1444FC90-2DAC-4B3F-85F4-D8AF38459FA4}|API dki tai khoan\\API dki tai khoan.csproj|solutionrelative:api dki tai khoan\\models\\laisuatkyhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,7 +54,72 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\API dki tai khoan\\API dki tai khoan\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "API dki tai khoan\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\API dki tai khoan\\API dki tai khoan\\Models\\ApplicationDbContext.cs*",
+              "RelativeToolTip": "API dki tai khoan\\Models\\ApplicationDbContext.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T16:40:37.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GiaoDich.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\API dki tai khoan\\API dki tai khoan\\Models\\GiaoDich.cs",
+              "RelativeDocumentMoniker": "API dki tai khoan\\Models\\GiaoDich.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\API dki tai khoan\\API dki tai khoan\\Models\\GiaoDich.cs*",
+              "RelativeToolTip": "API dki tai khoan\\Models\\GiaoDich.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T16:39:19.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TransfersController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\API dki tai khoan\\API dki tai khoan\\Controllers\\TransfersController.cs",
+              "RelativeDocumentMoniker": "API dki tai khoan\\Controllers\\TransfersController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\API dki tai khoan\\API dki tai khoan\\Controllers\\TransfersController.cs*",
+              "RelativeToolTip": "API dki tai khoan\\Controllers\\TransfersController.cs*",
+              "ViewState": "AgIAAIQAAAAAAAAAAADwv7AAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T16:37:31.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExternalTransferRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\API dki tai khoan\\API dki tai khoan\\Models\\ExternalTransferRequest.cs",
+              "RelativeDocumentMoniker": "API dki tai khoan\\Models\\ExternalTransferRequest.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\API dki tai khoan\\API dki tai khoan\\Models\\ExternalTransferRequest.cs*",
+              "RelativeToolTip": "API dki tai khoan\\Models\\ExternalTransferRequest.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T16:36:52.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InternalTransferRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\API dki tai khoan\\API dki tai khoan\\Models\\InternalTransferRequest.cs",
+              "RelativeDocumentMoniker": "API dki tai khoan\\Models\\InternalTransferRequest.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\API dki tai khoan\\API dki tai khoan\\Models\\InternalTransferRequest.cs*",
+              "RelativeToolTip": "API dki tai khoan\\Models\\InternalTransferRequest.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T16:36:06.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "LaiSuatKyHan.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\API dki tai khoan\\API dki tai khoan\\Models\\LaiSuatKyHan.cs",
               "RelativeDocumentMoniker": "API dki tai khoan\\Models\\LaiSuatKyHan.cs",
@@ -80,119 +129,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-01T16:09:59.547Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SoTietKiem.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\API dki tai khoan\\API dki tai khoan\\Models\\SoTietKiem.cs",
-              "RelativeDocumentMoniker": "API dki tai khoan\\Models\\SoTietKiem.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\API dki tai khoan\\API dki tai khoan\\Models\\SoTietKiem.cs",
-              "RelativeToolTip": "API dki tai khoan\\Models\\SoTietKiem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T16:08:33.633Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SavingsController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\API dki tai khoan\\API dki tai khoan\\Controllers\\SavingsController.cs",
-              "RelativeDocumentMoniker": "API dki tai khoan\\Controllers\\SavingsController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\API dki tai khoan\\API dki tai khoan\\Controllers\\SavingsController.cs",
-              "RelativeToolTip": "API dki tai khoan\\Controllers\\SavingsController.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAqwFUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T16:05:17.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OpenSavingRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\API dki tai khoan\\API dki tai khoan\\Models\\OpenSavingRequest.cs",
-              "RelativeDocumentMoniker": "API dki tai khoan\\Models\\OpenSavingRequest.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\API dki tai khoan\\API dki tai khoan\\Models\\OpenSavingRequest.cs",
-              "RelativeToolTip": "API dki tai khoan\\Models\\OpenSavingRequest.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T16:04:04.821Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\API dki tai khoan\\API dki tai khoan\\Program.cs",
-              "RelativeDocumentMoniker": "API dki tai khoan\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\API dki tai khoan\\API dki tai khoan\\Program.cs",
-              "RelativeToolTip": "API dki tai khoan\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T14:13:29.859Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\API dki tai khoan\\API dki tai khoan\\Models\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "API dki tai khoan\\Models\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\API dki tai khoan\\API dki tai khoan\\Models\\ApplicationDbContext.cs",
-              "RelativeToolTip": "API dki tai khoan\\Models\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAgwAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T14:07:39.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AccountsController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\API dki tai khoan\\API dki tai khoan\\Controllers\\AccountsController.cs",
-              "RelativeDocumentMoniker": "API dki tai khoan\\Controllers\\AccountsController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\API dki tai khoan\\API dki tai khoan\\Controllers\\AccountsController.cs",
-              "RelativeToolTip": "API dki tai khoan\\Controllers\\AccountsController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAowBcAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T13:58:06.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\API dki tai khoan\\API dki tai khoan\\appsettings.json",
-              "RelativeDocumentMoniker": "API dki tai khoan\\appsettings.json",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\API dki tai khoan\\API dki tai khoan\\appsettings.json",
-              "RelativeToolTip": "API dki tai khoan\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-01T14:16:08.939Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TaiKhoan.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\API dki tai khoan\\API dki tai khoan\\Models\\TaiKhoan.cs",
-              "RelativeDocumentMoniker": "API dki tai khoan\\Models\\TaiKhoan.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\API dki tai khoan\\API dki tai khoan\\Models\\TaiKhoan.cs",
-              "RelativeToolTip": "API dki tai khoan\\Models\\TaiKhoan.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T14:05:47.871Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RegisterAccountRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\API dki tai khoan\\API dki tai khoan\\Models\\RegisterAccountRequest.cs",
-              "RelativeDocumentMoniker": "API dki tai khoan\\Models\\RegisterAccountRequest.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\API dki tai khoan\\API dki tai khoan\\Models\\RegisterAccountRequest.cs",
-              "RelativeToolTip": "API dki tai khoan\\Models\\RegisterAccountRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T13:57:00.742Z"
             }
           ]
         }

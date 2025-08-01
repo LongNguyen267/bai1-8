@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API dki tai khoan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2967edbbc8e58192ff374cc786f952e283e90cd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d79ef6c9ba761e3f31eaa2b05f44a59b25fe32d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("API dki tai khoan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API dki tai khoan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
