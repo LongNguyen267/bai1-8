@@ -57,10 +57,77 @@
           }
         }
       }
+    },
+    "/api/savings/open": {
+      "post": {
+        "tags": [
+          "Savings"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/OpenSavingRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/OpenSavingRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/OpenSavingRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/savings/rates": {
+      "get": {
+        "tags": [
+          "Savings"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
     }
   },
   "components": {
     "schemas": {
+      "OpenSavingRequest": {
+        "required": [
+          "accountNumber"
+        ],
+        "type": "object",
+        "properties": {
+          "accountNumber": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "amount": {
+            "type": "number",
+            "format": "double"
+          },
+          "termMonths": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "autoRenew": {
+            "type": "boolean"
+          }
+        },
+        "additionalProperties": false
+      },
       "RegisterAccountRequest": {
         "type": "object",
         "properties": {

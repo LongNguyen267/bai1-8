@@ -83,3 +83,4 @@ C:\Users\Admin\source\repos\API dki tai khoan\API dki tai khoan\bin\Debug\net8.0
 C:\Users\Admin\source\repos\API dki tai khoan\API dki tai khoan\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Admin\source\repos\API dki tai khoan\API dki tai khoan\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Admin\source\repos\API dki tai khoan\API dki tai khoan\obj\Debug\net8.0\API dki tai khoan.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\source\repos\API dki tai khoan\API dki tai khoan\obj\Debug\net8.0\API dki tai khoan.sourcelink.json
