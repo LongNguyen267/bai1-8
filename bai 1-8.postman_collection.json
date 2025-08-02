@@ -1,0 +1,224 @@
+{
+	"info": {
+		"_postman_id": "6f8b1116-273d-4876-9e86-6febfaf8b939",
+		"name": "bai 1-8",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "43867044",
+		"_collection_link": "https://galactic-water-3987073.postman.co/workspace/T%C3%A2n's-Workspace~2e526153-c89f-4b9d-8674-13775c702e59/collection/43867044-6f8b1116-273d-4876-9e86-6febfaf8b939?action=share&source=collection_link&creator=43867044"
+	},
+	"item": [
+		{
+			"name": "https://localhost:44354/api/accounts/register",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"accountNumber\": \"234567\",\r\n  \"accountHolder\": \"Nguyen Nhat Dang Khoa\",\r\n  \"phone\": \"0921241243\",\r\n  \"citizenId\": \"34567810\",\r\n  \"expiryDate\": \"2025-11-23\",\r\n  \"initialBalance\": 300000000\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44354/api/accounts/register",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44354",
+					"path": [
+						"api",
+						"accounts",
+						"register"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7079/api/accounts/123456",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7079/api/accounts/123456",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7079",
+					"path": [
+						"api",
+						"accounts",
+						"123456"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:44354/api/transfer/internal",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"fromAccount\": \"123456\",\r\n  \"toAccount\": \"654321\",\r\n  \"amount\": 50000,\r\n  \"message\": \"Chuyen khoan noi bo\"\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44354/api/transfer/internal",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44354",
+					"path": [
+						"api",
+						"transfer",
+						"internal"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:44354/api/transfer/external",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"FromAccount\": \"234567\",\r\n    \"ToAccount\": \"123456\",\r\n    \"ToBankCode\": \"VCB\",\r\n    \"Amount\": 50000,\r\n    \"Note\": \"Chuyen tien di hoc\"\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44354/api/transfers/external",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44354",
+					"path": [
+						"api",
+						"transfers",
+						"external"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:44354/api/transactions?fromDate=2025-01-01&toDate=2025-12-31",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44354/api/transactions?fromDate=2025-01-01&toDate=2025-12-31",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44354",
+					"path": [
+						"api",
+						"transactions"
+					],
+					"query": [
+						{
+							"key": "fromDate",
+							"value": "2025-01-01"
+						},
+						{
+							"key": "toDate",
+							"value": "2025-12-31"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:44354/api/savings/open",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"accountNumber\": \"234567\",\r\n  \"amount\": 1000000,\r\n  \"term\": 1\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44354/api/savings/open",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44354",
+					"path": [
+						"api",
+						"savings",
+						"open"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:44354/api/savings/rates",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44354/api/savings/rates",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44354",
+					"path": [
+						"api",
+						"savings",
+						"rates"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
